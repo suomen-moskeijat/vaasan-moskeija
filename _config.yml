@@ -1,0 +1,10 @@
+# Vaasan moskeija – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Vaasan moskeija"
+description: "Vaasan moskeija, Palosaarentie 66, 65230 Vaasa. Rukousajat, tapahtumat ja toiminta."
+moskeija: vaasan-moskeija     # tiedosto _moskeijat/vaasan-moskeija.md
+
+# Osoite: https://suomen-moskeijat.github.io/vaasan-moskeija/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/vaasan-moskeija"
