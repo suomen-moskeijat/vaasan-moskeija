@@ -8,3 +8,4 @@ moskeija: vaasan-moskeija     # tiedosto _moskeijat/vaasan-moskeija.md
 # Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
 url: "https://suomen-moskeijat.github.io"
 baseurl: "/vaasan-moskeija"
+kielet: [fi]   # sivuston kielivalikko (hallintapaneeli → Asetukset)
